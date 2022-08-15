@@ -1,0 +1,4 @@
+  • Tim lives in a big apartment.
+  • Abby lives in a small apartment.
+  • There are no big apartments in Tinyville.
+  • Small apartments have one bedroom.
